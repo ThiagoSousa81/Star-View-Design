@@ -1,0 +1,14 @@
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\bin\Debug\StarViewDesing.exe.config
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\bin\Debug\StarViewDesing.exe
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\bin\Debug\StarViewDesing.pdb
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.csprojAssemblyReference.cache
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.Properties.Resources.resources
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.csproj.GenerateResource.cache
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.csproj.CoreCompileInputs.cache
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.exe
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.pdb
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.frmPrincipal.resources
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.frmVendas.resources
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.frmCompras.resources
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.frmFuncionarios.resources
+C:\Users\Ridalva\Documents\Thiago\Corporation I\Visual Studio\StarViewDesing\obj\Debug\StarViewDesing.frmPagos.resources
